@@ -1,6 +1,6 @@
 # dbt_project.yml
-name:
-version:
+name: 'taxi_rides_ny'
+version: '1.0.0'
 ...
 dbt-cloud:
     project-id: 70471823429760
