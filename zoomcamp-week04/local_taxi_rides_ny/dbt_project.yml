@@ -5,9 +5,13 @@ name: 'taxi_rides_ny'
 version: '1.0.0'
 config-version: 2
 
-# dbt-cloud:
-#     project-id: 70471823429760
+<<<<<<< HEAD
     
+=======
+dbt-cloud:
+    project-id: 70471823429760
+
+>>>>>>> 69bd8d578cb6353d352072bf1c44b6f262a57a59
 # This setting configures which "profile" dbt uses for this project.
 profile: 'bq-dbt-workshop'   
         #'pg-dbt-workshop'
